@@ -1,0 +1,36 @@
+# Ficheiros/pastas gerados localmente pelo Unity — nunca partilhar
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Builds
+[Bb]uild/
+[Bb]uilds/
+[Bb]uildPlayer.prefs
+
+# Crash reports
+sysinfo.txt
+*.stackdump
+
+# Ficheiros gerados pelo Package Manager (recomenda-se manter no controlo de versão
+# o packages-lock.json para reprodutibilidade entre máquinas com a MESMA versão do Editor)
+# Packages/packages-lock.json
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!*.meta
